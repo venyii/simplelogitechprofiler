@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<profiles>
+	<profile id="g27_rfactor" name="G27 - rFactor">
+		<operatingRange>900</operatingRange>
+		<forceFeedbackEnable>1</forceFeedbackEnable>
+	</profile>
+	<profile id="g27_race07_formula_rr" name="G27 - RACE07 (Formula RaceRoom)">
+		<operatingRange>400</operatingRange>
+		<forceFeedbackEnable>1</forceFeedbackEnable>
+	</profile>
+</profiles>
