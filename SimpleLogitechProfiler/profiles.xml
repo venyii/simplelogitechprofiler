@@ -1,11 +1,25 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <profiles>
 	<profile id="g27_rfactor" name="G27 - rFactor">
-		<operatingRange>900</operatingRange>
 		<forceFeedbackEnable>1</forceFeedbackEnable>
+		<combinedPedalsEnable>0</combinedPedalsEnable>
+		<persistentSpringEnable>1</persistentSpringEnable>
+		<gameSettingsEnable>1</gameSettingsEnable>
+		<operatingRange>900</operatingRange>
+		<damperGainPercentage>0</damperGainPercentage>
+		<defaultSpringGainPercentage>0</defaultSpringGainPercentage>
+		<overallGainPercentage>107</overallGainPercentage>
+		<springGainPercentage>0</springGainPercentage>
 	</profile>
 	<profile id="g27_race07_formula_rr" name="G27 - RACE07 (Formula RaceRoom)">
-		<operatingRange>400</operatingRange>
 		<forceFeedbackEnable>1</forceFeedbackEnable>
+		<combinedPedalsEnable>0</combinedPedalsEnable>
+		<persistentSpringEnable>1</persistentSpringEnable>
+		<gameSettingsEnable>1</gameSettingsEnable>
+		<operatingRange>270</operatingRange>
+		<damperGainPercentage>0</damperGainPercentage>
+		<defaultSpringGainPercentage>0</defaultSpringGainPercentage>
+		<overallGainPercentage>107</overallGainPercentage>
+		<springGainPercentage>0</springGainPercentage>
 	</profile>
 </profiles>
